@@ -4,7 +4,7 @@ import time
 from datetime import datetime
 
 # Firebase configuration
-DATABASE_URL = "https://cloudrobotickevin-default-rtdb.asia-southeast1.firebasedatabase.app"
+DATABASE_URL = "(database URL kamu)"
 
 def get_data_from_path(path):
     """Get data from a specific Firebase path using REST API"""

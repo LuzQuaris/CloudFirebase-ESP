@@ -4,10 +4,10 @@
 #include "addons/TokenHelper.h"
 #include "addons/RTDBHelper.h"
 
-#define WIFI_SSID "POCO F6"
-#define WIFI_PASSWORD "soktaulu"
-#define API_KEY "AIzaSyCh4uHP7zRf9h1dtjjs30oZafZ9BKeib2A"
-#define DATABASE_URL "https://cloudrobotickevin-default-rtdb.asia-southeast1.firebasedatabase.app/"
+#define WIFI_SSID "(Wifi SSID kamu)"
+#define WIFI_PASSWORD "(Password Wifi Kamu)"
+#define API_KEY "(API Key database kamu)"
+#define DATABASE_URL "(Database URL kamu)"
 
 FirebaseData fbdo;
 FirebaseAuth auth;
